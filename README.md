@@ -79,7 +79,7 @@ Columns include:
 
 (Add dashboard screenshot here)
 
-![Dashboard](Assets/Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
